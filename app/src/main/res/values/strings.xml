@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Online Coffee Shop</string>
+    <string name="ice_drink">Ice Drink</string>
+    <string name="category">Category</string>
+    <string name="hot_coffee">Hot Coffee</string>
+    <string name="ice_coffee">Ice Coffee</string>
+    <string name="coffee_category">coffee category</string>
+    <string name="product_image" />
+</resources>
